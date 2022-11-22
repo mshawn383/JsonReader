@@ -1,0 +1,81 @@
+{
+  "merchantProfile": {
+    "merchant": {
+      "value": "NS",
+      "highlight": "false"
+    },
+    "locationAddress": {
+      "value": "S",
+      "highlight": "false"
+    },
+    "financial": {
+      "value": "A",
+      "highlight": "false"
+    },
+    "solution": {
+      "value": "R",
+      "highlight": "false"
+    },
+    "bussinessLegalVerification": {
+      "value": "NS",
+      "highlight": "false"
+    },
+    "principalInformationSigner": {
+      "value": "NS",
+      "highlight": "false"
+    }
+  },
+  "locationAddress" : {
+  "business": {
+    "yearEstablished": {
+      "value": "1940",
+      "highlightedByReviewer": "N",
+      "active": "Y"
+    },
+    "LengthOfOwnershipYears": {
+      "value": "4",
+      "highlightedByReviewer": "N",
+      "active": "Y"
+    }
+  },
+    "Chargeback": {
+      "chargeMethod": {
+        "value": "Chargeback Email",
+        "active": "Y",
+        "highlightedByReviewer": "N"
+      },
+      "chargebackE-MailAddress": {
+        "value": "charge@back.com",
+        "active": "Y",
+        "highlightedByReviewer": "N"
+      }
+    },
+      "statement": {
+        "statementstreetAddress": {
+          "value": {
+            "city": "Dekalb",
+            "country": "USA"
+          },
+          "active": "Y",
+          "highlightedByReviewer": "N"
+        },
+        "seasonal": {
+          "value": "May",
+          "active": "Y",
+          "highlightedByReviewer": "N"
+        }
+      },
+        "shipping": {
+          "shippingphone": {
+            "value": " ",
+            "active": "Y",
+            "highlightedByReviewer": "N"
+          },
+          "shippingStreetAddress": {
+            "value": " ",
+            "active": "Y",
+            "highlightedByReviewer": "N"
+          }
+        }
+      }
+}
